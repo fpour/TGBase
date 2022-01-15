@@ -20,8 +20,8 @@ torch==1.10.0
 scikit_learn==1.0.1
 numpy==1.21.2
 ```
+
 ### Datasets
-#### Public data
 Sample datasets can be downloaded from the following sources:
 * Networks with static labels:
   * Cryptocurrency transaction networks: [Bitcoin](https://www.kaggle.com/ellipticco/elliptic-data-set), [Ethereum](https://www.kaggle.com/xblock/ethereum-phishing-transaction-network)
@@ -31,6 +31,7 @@ Sample datasets can be downloaded from the following sources:
 
 To user your own data, it should have similar format to the above datasets.
 All data are assumed to be in "_data_" folder.
+
 
 ### Execution
 * Static node classification: 
@@ -46,6 +47,7 @@ All data are assumed to be in "_data_" folder.
     python src/dynamic_n_clf.py --network wikipedia --clf MLP
     ```
 An execution summary is saved in "_logs_" folder.
+
 
 ### Acknowledgement
 We would like to thank [TGN](https://github.com/twitter-research/tgn)'s authors for providing open access to the implementation of their methods.
