@@ -48,7 +48,7 @@ All data are assumed to be in "_data_" folder.
 An execution summary is saved in "_logs_" folder.
 
 ### Acknowledgement
-We would like to thank the authors of [TGN](https://github.com/twitter-research/tgn) for providing open access to the implementation of their methods.
+We would like to thank [TGN](https://github.com/twitter-research/tgn)'s authors for providing open access to the implementation of their methods.
  
  
  
