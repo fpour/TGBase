@@ -6,7 +6,7 @@ Representation learning on temporal networks is a first step for performing furt
 We propose **TGBase** that extracts key features to consider the structural characteristics of each node and its neighborhood as well as the intensity and timestamp of the interactions among node pairs.
 
 
-#### Paper link: [A Strong Node Classification Baseline for Temporal Graphs](a link will be added.)
+#### The paper can be found [here](https://epubs.siam.org/doi/pdf/10.1137/1.9781611977172.73).
 
 
 
